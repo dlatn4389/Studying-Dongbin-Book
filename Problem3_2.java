@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Problem3_2 {
     public static void main(String[] args) {
+        //get Input
         Scanner sc = new Scanner(System.in);
         String numInputs = sc.nextLine();
         String[] numInput = numInputs.split(" ");
