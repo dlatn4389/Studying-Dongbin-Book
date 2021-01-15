@@ -43,7 +43,7 @@ public class Problem7_5 {
         }
     }
 
-    public static boolean binarySearch(int[] item, int target, int start, int end) {
+    private static boolean binarySearch(int[] item, int target, int start, int end) {
         if (start>end) {
             return false;
         }
