@@ -1,3 +1,5 @@
+package Chapter5;
+
 public class Problem5_6 {
     static final int INF = 99999999;
     static int[][] graph = {
