@@ -1,4 +1,4 @@
-package Problem7;
+package Chapter7;
 
 import java.io.*;
 import java.util.Arrays;
