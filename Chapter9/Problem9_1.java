@@ -81,12 +81,3 @@ public class Problem9_1 {
         return array;
     }
 }
-
-class NodeAndCost<K, V> {
-    K node; V cost;
-
-    public NodeAndCost(K node, V cost) {
-        this.node = node;
-        this.cost = cost;
-    }
-}
